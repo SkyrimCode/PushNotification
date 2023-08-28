@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotifyFCM</string>
+    <string name="msg_token_fmt"> </string>
+</resources>
